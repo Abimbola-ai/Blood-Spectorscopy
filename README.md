@@ -18,4 +18,6 @@ Hemoglobin(hgb)_human: The level of hemoglobin: Can be low, ok or high.
 
 Each blood sample is scanned 60 times, we actually have 60 measurements for each. We have shuffled the measurements, so you won’t know which measurements are from the same sample. Hence, try to fight overfitting as much as possible because this could lead to overfitting.
 
+# Acknowledgement
+I wish to thank BloodsAi and Zindi for introducing this challenge and providing the data. It was indeed an interesting experience. 
 
